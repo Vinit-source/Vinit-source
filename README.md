@@ -61,16 +61,18 @@ timeline
     title My Professional Timeline
     
     2019 : GATE CSE AIR 643
-         : Started MTech at IIT Jodhpur
+         : Trainee at Maharashtra Knowledge Corporation Limited (MKCL)
+
+    2020 : Started MTech at IIT Jodhpur
     
-    2021 : Software Developer at Freshworks
+    2022 : Software Developer at Freshworks
          : Tech Coach for underprivileged students
     
-    2023 : AI Engineer at NavGurukul
+    2025 : AI Engineer at NavGurukul
          : Leading AI-powered EdTech initiatives
-    
-    2024 : Telangana AI Challenge Winner
+         : Telangana AI Challenge Winner
          : Driving campus placements & learning spaces
+
 ```
 
 ## 🛠️ Tech Stack
@@ -94,17 +96,6 @@ timeline
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vinit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinit-source&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinit-source&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinit-source&theme=radical&hide_border=true)
-
-</div>
 
 ## 🌟 Current Focus: PDF_To_Markdown_MCP
 
