@@ -43,7 +43,7 @@ class VinitGore:
 ## 🏆 Featured Achievements
 
 ### 🎯 **Telangana AI Challenge Winner**
-Led the development of **Draw and Learn AI** - selected by Telangana Government among 50 startups!
+Led the development of the POC for **Draw and Learn AI** - selected by Telangana Government among 50 startups!
 
 ### 📚 **AI EdTech Portfolio**
 - **AI English Tutor** - Personalized language learning
