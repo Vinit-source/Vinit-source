@@ -97,10 +97,6 @@ timeline
 </div>
 
 
-## 🌟 Current Focus: PDF_To_Markdown_MCP
-
-I'm currently working on **PDF_To_Markdown_MCP**, an innovative project that leverages AI to transform PDF documents into structured Markdown format, making educational content more accessible and processable for AI systems.
-
 ## 🎨 Beyond Code
 
 When I'm not building AI solutions, you'll find me:
