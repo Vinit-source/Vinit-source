@@ -23,13 +23,7 @@ class VinitGore:
         self.education = "MTech Computer Science - IIT Jodhpur"
         self.gate_rank = "AIR 643 (99.36 percentile) - GATE 2019"
         self.mission = "Democratizing AI education for underprivileged youth"
-        
-    def current_focus(self):
-        return {
-            "project": "PDF_To_Markdown_MCP",
-            "domain": "AI-powered document processing",
-            "impact": "Enhancing educational content accessibility"
-        }
+        self.org = "NavGurukul Foundation for Social Welfare"
     
     def skills(self):
         return {
