@@ -29,8 +29,8 @@ class VinitGore:
         return {
             "languages": ["Python", "JavaScript", "Java"],
             "frameworks": ["React", "TensorFlow", "PyTorch"],
-            "devops": ["Docker", "Kubernetes", "CI/CD"],
-            "ai_ml": ["Deep Learning", "Computer Vision", "NLP", "Q-Learning"]
+            "devops": ["Docker", "Kubernetes", "CI/CD", "AWS Amplify"],
+            "ai_ml": ["LLM APIs", "Deep Learning", "Computer Vision", "NLP", "Q-Learning"]
         }
 ```
 
