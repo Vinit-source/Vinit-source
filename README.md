@@ -44,7 +44,7 @@ Led the development of the POC for **Draw and Learn AI** - selected by Telangana
 - **Gondi Word Injector** - Preserving indigenous languages through AI [[GitHub repo]](https://github.com/navgurukul/Gondi-Word-Inserter) [[Deployment]](https://chromewebstore.google.com/detail/gondi-word-inserter/hlaigbmmpjdnjpgbpdgmefonembjanhm)
 - **Draw and Learn AI** - Visual learning through AI recognition [[GitHub repo]](https://github.com/navgurukul/draw-and-learn) [[Deployment]](https://gemini-llm.d1sfgow19d914z.amplifyapp.com/)
 - **Flowchart Learning Assistant** - Simplifying complex concepts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://main.dbcl582n2agz1.amplifyapp.com/)
-- Deep Learning, Computer Vision, MLOps based repositories - Check my Featured Repositories and other repositories.
+- **Classical ML, Deep Learning, Computer Vision, MLOps** based repositories - Check my Featured Repositories and other repositories.
 
 *🌐 Explore all projects at [ai.navgurukul.org](https://ai.navgurukul.org)*
 
