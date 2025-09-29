@@ -100,8 +100,9 @@ timeline
 
 When I'm not building AI solutions, you'll find me:
 
-- ♟️ **Playing Chess** - Strategic thinking on and off the board
-- 📚 **Reading & Poetry** - Exploring literature and creative expression  
+- ♟️ **Playing Chess/Board Games** - Strategic thinking on and off the board
+- 📚 **Reading & Poetry** - Exploring literature and creative expression
+- 🕺 **Dance** - Exploring different dance forms like Garba, Bollywood, etc.
 - 🌍 **Cultural Exploration** - Discovering commonalities in Indian languages
 - 🤝 **Volunteering** - Social and spiritual community activities
 - 💭 **Philosophy** - Contemplating the intersection of technology and humanity
