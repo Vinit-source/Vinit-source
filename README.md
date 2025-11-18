@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinitgore/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitgore1234@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF8C00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/the-vedantic-coder)
 [![NavGurukul AI](https://img.shields.io/badge/AI%20Portal-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://ai.navgurukul.org)
 
 </div>
@@ -40,7 +41,7 @@ class VinitGore:
 Led the development of the POC for **Draw and Learn AI** - selected by Telangana Government among 50 startups!
 
 ### 📚 **AI EdTech Portfolio**
-- **Sentence to Splitted Text (STST)** - Published a npm package to simplifies the client-side STT pipeline by splitting the raw output of STT softwares into well-formed sentences. [[Package]](https://github.com/orgs/the-vedantic-coder/packages/npm/stst/580080323)
+- **Sentence to Splitted Text (STST)** - Published a model on HuggingFace and a npm package to simplify the client-side STT pipeline by splitting the raw output of STT softwares into well-formed sentences. [[Model]](https://huggingface.co/the-vedantic-coder/sentence-splitter) [[Package]](https://github.com/orgs/the-vedantic-coder/packages/npm/stst/580080323)
 - **Draw and Learn AI** - Visual learning through AI recognition [[GitHub repo]](https://github.com/navgurukul/draw-and-learn) [[Deployment]](https://gemini-llm.d1sfgow19d914z.amplifyapp.com/)
 - **Flowchart Learning Assistant** - Developed this solution end-to-end that guides with logic building using flowcharts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://flowchart.navgurukul.org/)
 - **AI English Tutor** - Personalized language learning [[GitHub repo]](https://github.com/Vinit-source/AI-English-Tutor) [[Deployment]](https://ai-english-tutor-genai.vercel.app/)
