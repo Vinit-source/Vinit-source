@@ -42,7 +42,7 @@ Led the development of the POC for **Draw and Learn AI** - selected by Telangana
 ### 📚 **AI EdTech Portfolio**
 - **Sentence to Splitted Text (STST)** - Published a npm package to simplifies the client-side STT pipeline by splitting the raw output of STT softwares into well-formed sentences. [[Package]](https://github.com/orgs/the-vedantic-coder/packages/npm/stst/580080323)
 - **Draw and Learn AI** - Visual learning through AI recognition [[GitHub repo]](https://github.com/navgurukul/draw-and-learn) [[Deployment]](https://gemini-llm.d1sfgow19d914z.amplifyapp.com/)
-- **Flowchart Learning Assistant** - Developed this solution from scratch that guides logic building using flowcharts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://flowchart.navgurukul.org/)
+- **Flowchart Learning Assistant** - Developed this solution end-to-end that guides with logic building using flowcharts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://flowchart.navgurukul.org/)
 - **AI English Tutor** - Personalized language learning [[GitHub repo]](https://github.com/Vinit-source/AI-English-Tutor) [[Deployment]](https://ai-english-tutor-genai.vercel.app/)
 - **Gondi Word Injector** - Preserving indigenous languages through AI [[GitHub repo]](https://github.com/navgurukul/Gondi-Word-Inserter) [[Deployment]](https://chromewebstore.google.com/detail/gondi-word-inserter/hlaigbmmpjdnjpgbpdgmefonembjanhm)
 - **Classical ML, Deep Learning, Computer Vision, MLOps** based repositories - Check my Featured Repositories and other repositories.
