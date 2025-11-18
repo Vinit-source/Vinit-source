@@ -29,8 +29,8 @@ class VinitGore:
         return {
             "languages": ["Python", "JavaScript", "Java"],
             "frameworks": ["React", "TensorFlow", "PyTorch"],
-            "devops": ["Docker", "Kubernetes", "CI/CD", "AWS Amplify"],
-            "ai_ml": ["LLM APIs", "Deep Learning", "Computer Vision", "NLP", "Q-Learning"]
+            "devops": ["Docker", "Kubernetes", "CI/CD", "AWS Amplify", "GitHub Actions"],
+            "ai_ml": ["LLM APIs", "HuggingFace", "Client-side AI Applications", "Deep Learning", "Computer Vision", "NLP", "Q-Learning"]
         }
 ```
 
@@ -40,8 +40,9 @@ class VinitGore:
 Led the development of the POC for **Draw and Learn AI** - selected by Telangana Government among 50 startups!
 
 ### 📚 **AI EdTech Portfolio**
+- **Sentence to Splitted Text (STST)** - Published a npm package to simplifies the client-side STT pipeline by splitting the raw output of STT softwares into well-formed sentences. [[Package]](https://github.com/orgs/the-vedantic-coder/packages/npm/stst/580080323)
 - **Draw and Learn AI** - Visual learning through AI recognition [[GitHub repo]](https://github.com/navgurukul/draw-and-learn) [[Deployment]](https://gemini-llm.d1sfgow19d914z.amplifyapp.com/)
-- **Flowchart Learning Assistant** - Developed this solution from scratch that guides logic building using flowcharts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://main.dbcl582n2agz1.amplifyapp.com/)
+- **Flowchart Learning Assistant** - Developed this solution from scratch that guides logic building using flowcharts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://flowchart.navgurukul.org/)
 - **AI English Tutor** - Personalized language learning [[GitHub repo]](https://github.com/Vinit-source/AI-English-Tutor) [[Deployment]](https://ai-english-tutor-genai.vercel.app/)
 - **Gondi Word Injector** - Preserving indigenous languages through AI [[GitHub repo]](https://github.com/navgurukul/Gondi-Word-Inserter) [[Deployment]](https://chromewebstore.google.com/detail/gondi-word-inserter/hlaigbmmpjdnjpgbpdgmefonembjanhm)
 - **Classical ML, Deep Learning, Computer Vision, MLOps** based repositories - Check my Featured Repositories and other repositories.
@@ -61,11 +62,14 @@ timeline
     
     2022 : Software Developer at Freshworks
          : Tech Coach for underprivileged students
+         : Technical innovations in the field of education
     
     2025 : AI Engineer at NavGurukul
-         : Leading AI-powered EdTech initiatives
+         : AI-powered EdTech initiatives
          : Telangana AI Challenge Winner
          : Driving campus placements & learning spaces
+         : Published about 10+ AI-powered applications and 1 package
+         : 
 
 ```
 
