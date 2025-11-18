@@ -69,7 +69,6 @@ timeline
          : Telangana AI Challenge Winner
          : Driving campus placements & learning spaces
          : Published about 10+ AI-powered applications and 1 package
-         : 
 
 ```
 
