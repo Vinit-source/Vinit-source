@@ -41,7 +41,7 @@ class VinitGore:
 Led the development of the POC for **Draw and Learn AI** - selected by Telangana Government among 50 startups!
 
 ### 📚 **AI EdTech Portfolio**
-- **Sentence to Splitted Text (STST)** - Published a model on HuggingFace and a npm package to simplify the client-side STT pipeline by splitting the raw output of STT softwares into well-formed sentences. [[Model]](https://huggingface.co/the-vedantic-coder/sentence-splitter) [[Package]](https://github.com/orgs/the-vedantic-coder/packages/npm/stst/580080323)
+- **Speech to Splitted Text (STST)** - Published a model on HuggingFace and a npm package to simplify the client-side Speech to Text (STT) pipeline by splitting the raw output of STT softwares into well-formed sentences. [[Model]](https://huggingface.co/the-vedantic-coder/sentence-splitter) [[Package]](https://github.com/orgs/the-vedantic-coder/packages/npm/stst/580080323)
 - **Draw and Learn AI** - Visual learning through AI recognition [[GitHub repo]](https://github.com/navgurukul/draw-and-learn) [[Deployment]](https://gemini-llm.d1sfgow19d914z.amplifyapp.com/)
 - **Flowchart Learning Assistant** - Developed this solution end-to-end that guides with logic building using flowcharts [[GitHub repo]](https://github.com/navgurukul/Flowchart-learner-simple) [[Deployment]](https://flowchart.navgurukul.org/)
 - **AI English Tutor** - Personalized language learning [[GitHub repo]](https://github.com/Vinit-source/AI-English-Tutor) [[Deployment]](https://ai-english-tutor-genai.vercel.app/)
