@@ -61,9 +61,11 @@ timeline
 
     2020 : Started MTech at IIT Jodhpur
     
-    2022 : Software Developer at Freshworks
-         : Tech Coach for underprivileged students
+    2022 : Tech Coach for underprivileged students at Freshworks STS Software Academy
          : Technical innovations in the field of education
+
+    2024 : Assistant Professor at SVKM's SBMP&COE
+         : Taught IKS (Nyaya Shastra), C Programming for University lecturing
     
     2025 : AI Engineer at NavGurukul
          : AI-powered EdTech initiatives
@@ -114,8 +116,8 @@ When I'm not building AI solutions, you'll find me:
 
 - ♟️ **Playing Chess/Board Games** - Strategic thinking on and off the board
 - 📚 **Reading & Poetry** - Exploring literature and creative expression
-- 🕺 **Dance** - Exploring different dance forms like Garba, Bollywood, etc.
-- 🌍 **Cultural Exploration** - Discovering commonalities in Indian languages
+- 🕺 **Dance** - Exploring different dance forms like Garba, etc.
+- 🌍 **Cultural Exploration** - Discovering harmony in Indian languages, cultures and religions
 - 🤝 **Volunteering** - Social and spiritual community activities
 - 💭 **Philosophy** - Contemplating the intersection of technology and humanity
 
