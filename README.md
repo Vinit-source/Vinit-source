@@ -39,7 +39,7 @@ class VinitGore:
 ## 🏆 Featured Achievements
 
 ### 🏛️ **AI for Heritage Preservation**
-Leading AI adaptation at RKMVERI, including DST-funded heritage preservation projects like AI on 3D objects and research-driven social impact implementations.
+Leading AI adaptation at RKMVERI, including DST-funded heritage preservation projects like AI on 3D objects and research-driven social impact implementations intended to impact Ramakrishna Math and Mission and everyone associated with it.
 
 ### 📚 **Current Public & Private AI Portfolio**
 - **svara.rkmm.ai** - Built and launched the official interactive harmonium songbook featuring bhajans from the Ramakrishna Order. [[Platform]](https://svara.rkmm.ai)
