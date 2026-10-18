@@ -25,6 +25,7 @@ class VinitGore:
         self.ugc_net_jrf = "Computer Science and Applications (99.87 percentile, Rank 59)"
         self.mission = "Applying AI for heritage preservation and social impact"
         self.org = "Ramakrishna Mission Vivekananda Educational and Research Institute"
+        self.top_skills = ["Problem Solving", "Artificial Intelligence (AI)", "Research", "Leadership", "Software Architectural Design"]
     
     def skills(self):
         return {
@@ -65,7 +66,7 @@ timeline
          : Technical innovations in the field of education
 
     2024 : Assistant Professor at SVKM's SBMP&COE
-         : Taught IKS (Nyaya Shastra), C Programming for University lecturing
+         : University lecturing - Courses: IKS (Nyaya Shastra), C Programming 
     
     2025 : AI Engineer at NavGurukul
          : AI-powered EdTech initiatives
@@ -78,7 +79,7 @@ timeline
          : Artificial Intelligence Researcher at RKMVERI (Apr - Present)
          : Building svara.rkmm.ai, ask.rkmm.ai and ask.rkmm.work
          : Volunteer educator with NavGurukul AI learning series
-         : UGC NET JRF cleared - Subject CS, Rank 59
+         : UGC NET JRF cleared - Subject CS, AIR 59
 
 ```
 
@@ -115,11 +116,11 @@ timeline
 When I'm not building AI solutions, you'll find me:
 
 - ♟️ **Playing Chess/Board Games** - Strategic thinking on and off the board
-- 📚 **Reading & Poetry** - Exploring literature and creative expression
-- 🕺 **Dance** - Exploring different dance forms like Garba, etc.
+- 📚 **Reading & Poetry** - Exploring philosophy
+- 🕺 **Music and Dance** - Exploring harmony between rhythm and raga through kirtans and between rhythm and energy through Garba, etc.
 - 🌍 **Cultural Exploration** - Discovering harmony in Indian languages, cultures and religions
-- 🤝 **Volunteering** - Social and spiritual community activities
-- 💭 **Philosophy** - Contemplating the intersection of technology and humanity
+- 🤝 **Volunteering** - Social and spiritual volunteering activities
+- 💭 **Philosophy** - Contemplating the application of Indian Knowledge Systems, especially Yoga-Vedanta in our lives
 
 ## 🤝 Let's Connect!
 
