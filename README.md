@@ -38,11 +38,11 @@ class VinitGore:
 ## 🏆 Featured Achievements
 
 ### 🏛️ **AI for Heritage Preservation**
-Leading AI adaptation at RKMVERI for DST-funded heritage preservation projects, including AI on 3D objects and research-driven social impact implementations.
+Leading AI adaptation at RKMVERI, including DST-funded heritage preservation projects like AI on 3D objects and research-driven social impact implementations.
 
 ### 📚 **Current Public & Private AI Portfolio**
-- **svara.rkmm.ai** - Built and launched the official interactive harmonium songbook featuring bhajans from the Ramakrishna Order. [[Platform]](https://rkmm.ai)
-- **ask.rkmm.ai (Public)** - Led the development of a public LLM-powered publication Q&A platform for Ramakrishna-Vivekananda literature. [[Platform]](https://rkmm.ai)
+- **svara.rkmm.ai** - Built and launched the official interactive harmonium songbook featuring bhajans from the Ramakrishna Order. [[Platform]](https://svara.rkmm.ai)
+- **ask.rkmm.ai (Public)** - Led the development of a public LLM-powered publication Q&A platform for Ramakrishna-Vivekananda literature. [[Platform]](https://ask.rkmm.ai)
 - **ask.rkmm.work (Private)** - Led the private deployment for monks with organization-specific access and workflows.
 - **iLLaM** - Home to AI LLM-powered platform on Swami Vivekananda's life and teachings.
 - **NavGurukul AI Learning Labs** - Developed 5+ AI learning solutions for 9 campuses, impacting 1200 students. [[Labs]](https://www.navgurukul.org/ailearninglabs)
@@ -76,6 +76,7 @@ timeline
          : Artificial Intelligence Researcher at RKMVERI (Apr - Present)
          : Building svara.rkmm.ai, ask.rkmm.ai and ask.rkmm.work
          : Volunteer educator with NavGurukul AI learning series
+         : UGC NET JRF cleared - Subject CS, Rank 59
 
 ```
 
