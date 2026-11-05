@@ -116,7 +116,7 @@ timeline
 When I'm not building AI solutions, you'll find me:
 
 - ♟️ **Playing Chess/Board Games** - Strategic thinking on and off the board
-- 📚 **Reading & Poetry** - Exploring philosophy
+- 📚 **Reading, Poetry and Drawing** - Exploring philosophy, writing poems and drawing creatively
 - 🕺 **Music and Dance** - Exploring harmony between rhythm and raga through kirtans and between rhythm and energy through Garba, etc.
 - 🌍 **Cultural Exploration** - Discovering harmony in Indian languages, cultures and religions
 - 🤝 **Volunteering** - Social and spiritual volunteering activities
