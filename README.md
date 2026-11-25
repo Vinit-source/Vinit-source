@@ -127,6 +127,7 @@ When I'm not building AI solutions, you'll find me:
 I'm always excited to collaborate on projects that create positive social impact, especially in:
 
 - 🏛️ **AI for Heritage & Cultural Preservation**
+- 🧘‍♂️ **Yoga, Vedanta and Neuroscience**
 - 🤖 **LLM, RAG, and Agentic AI Platforms**
 - 🌐 **AI for Education in Underserved Communities**
 - 🔬 **Research-led Applied AI Systems**
