@@ -46,8 +46,8 @@ Leading AI adaptation at RKMVERI, including DST-funded heritage preservation pro
 - **svara.rkmm.ai** - Built and launched the official interactive harmonium songbook featuring bhajans from the Ramakrishna Order. [[Platform]](https://svara.rkmm.ai)
 - **ask.rkmm.ai (Public)** - Led the development of the official LLM-powered publication Q&A platform for Ramakrishna-Vivekananda literature. [[Platform]](https://ask.rkmm.ai)
 - **ask.rkmm.work (Private)** - Led the private deployment for monks with organization-specific access and workflows.
-- **NavGurukul AI Learning Labs** - Developed 5+ AI learning solutions for 9 campuses, impacting 1200 students. [[Labs]](https://www.navgurukul.org/ailearninglabs)
-- **Draw and Learn AI** - Represented NavGurukul and secured 1st place with ₹15 lakhs funding in Telangana AI Grand Challenge.
+- **NavGurukul AI Learning Labs** - Developed 5+ AI learning solutions for 9 campuses, impacting 1200 students. [[Labs]](https://www.navgurukul.org/ailearninglabs). Designed, architected and developed the Socratic problem-solving web application with a team of 5. [[WebApp]](https://flowchart.navgurukul.org)
+- **Draw and Learn AI** - Represented NavGurukul and secured 1st place with ₹15 lakhs funding in Telangana AI Grand Challenge. [[Winning POC]](https://dev.d1ylf7xaxd1ycn.amplifyapp.com/)
 
 *🌐 Explore active work at [rkmm.ai](https://rkmm.ai)*
 
